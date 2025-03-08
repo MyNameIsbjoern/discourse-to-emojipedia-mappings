@@ -9120,7 +9120,7 @@
         "1F3FA"
     ],
     "globe_showing_europe_africa": [
-        "globe showing",
+        "globe showing Europe-Africa",
         "1F30D"
     ],
     "globe_showing_americas": [
@@ -11552,7 +11552,7 @@
         "1F519"
     ],
     "end_arrow": [
-        "",
+        "END arrow",
         "1F51A"
     ],
     "on_arrow": [
@@ -12012,7 +12012,7 @@
         "1F192"
     ],
     "free_button": [
-        "FR",
+        "FREE button",
         "1F193"
     ],
     "id_button": [
@@ -12024,7 +12024,7 @@
         "24C2 FE0F"
     ],
     "new_button": [
-        "N",
+        "NEW button",
         "1F195"
     ],
     "ng_button": [
@@ -12300,7 +12300,7 @@
         "1F1E6 1F1E9"
     ],
     "united_arab_emirates": [
-        "flag: United Arab",
+        "flag: United Arab Emirates",
         "1F1E6 1F1EA"
     ],
     "afghanistan": [
@@ -12556,15 +12556,15 @@
         "1F1EA 1F1E6"
     ],
     "ecuador": [
-        "flag:",
+        "flag: Ecuador",
         "1F1EA 1F1E8"
     ],
     "estonia": [
-        "flag:",
+        "flag: Estonia",
         "1F1EA 1F1EA"
     ],
     "egypt": [
-        "flag:",
+        "flag: Egypt",
         "1F1EA 1F1EC"
     ],
     "western_sahara": [
@@ -12572,7 +12572,7 @@
         "1F1EA 1F1ED"
     ],
     "eritrea": [
-        "flag:",
+        "flag: Eritrea",
         "1F1EA 1F1F7"
     ],
     "spain": [
@@ -12580,11 +12580,11 @@
         "1F1EA 1F1F8"
     ],
     "ethiopia": [
-        "flag:",
+        "flag: Ethiopia",
         "1F1EA 1F1F9"
     ],
     "european_union": [
-        "flag:",
+        "flag: European Union",
         "1F1EA 1F1FA"
     ],
     "finland": [
@@ -12660,7 +12660,7 @@
         "1F1EC 1F1F5"
     ],
     "equatorial_guinea": [
-        "flag:",
+        "flag: Equatorial Guinea",
         "1F1EC 1F1F6"
     ],
     "greece": [
@@ -13152,7 +13152,7 @@
         "1F1F8 1F1F9"
     ],
     "el_salvador": [
-        "flag:",
+        "flag: El Salvador",
         "1F1F8 1F1FB"
     ],
     "sint_maarten": [
@@ -13164,7 +13164,7 @@
         "1F1F8 1F1FE"
     ],
     "eswatini": [
-        "flag:",
+        "flag: Eswatini",
         "1F1F8 1F1FF"
     ],
     "tristan_da_cunha": [
@@ -13324,7 +13324,7 @@
         "1F1FF 1F1FC"
     ],
     "england": [
-        "flag:",
+        "flag: England",
         "1F3F4 E0067 E0062 E0065 E006E E0067 E007F"
     ],
     "scotland": [
