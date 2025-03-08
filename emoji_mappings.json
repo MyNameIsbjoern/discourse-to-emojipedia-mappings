@@ -77,7 +77,7 @@
     ],
     "smiling_face": [
         "smiling face",
-        "263A"
+        "263A FE0F"
     ],
     "kissing_face_with_closed_eyes": [
         "kissing face with closed eyes",
@@ -321,7 +321,7 @@
     ],
     "frowning": [
         "frowning face",
-        "2639"
+        "2639 FE0F"
     ],
     "open_mouth": [
         "face with open mouth",
@@ -437,7 +437,7 @@
     ],
     "skull_and_crossbones": [
         "skull and crossbones",
-        "2620"
+        "2620 FE0F"
     ],
     "poop": [
         "pile of poo",
@@ -557,7 +557,7 @@
     ],
     "heart_exclamation": [
         "heart exclamation",
-        "2763"
+        "2763 FE0F"
     ],
     "broken_heart": [
         "broken heart",
@@ -573,7 +573,7 @@
     ],
     "heart": [
         "heart suit",
-        "2665"
+        "2665 FE0F"
     ],
     "pink_heart": [
         "pink heart",
@@ -649,7 +649,7 @@
     ],
     "hole": [
         "hole",
-        "1F573"
+        "1F573 FE0F"
     ],
     "speech_balloon": [
         "speech balloon",
@@ -661,11 +661,11 @@
     ],
     "left_speech_bubble": [
         "left speech bubble",
-        "1F5E8"
+        "1F5E8 FE0F"
     ],
     "right_anger_bubble": [
         "right anger bubble",
-        "1F5EF"
+        "1F5EF FE0F"
     ],
     "thought_balloon": [
         "thought balloon",
@@ -725,7 +725,7 @@
     ],
     "hand_with_fingers_splayed": [
         "hand with fingers splayed",
-        "1F590"
+        "1F590 FE0F"
     ],
     "hand_with_fingers_splayed:t2": [
         "hand with fingers splayed: light skin tone",
@@ -1013,7 +1013,7 @@
     ],
     "victory_hand": [
         "victory hand",
-        "270C"
+        "270C FE0F"
     ],
     "victory_hand:t2": [
         "victory hand: light skin tone",
@@ -1277,7 +1277,7 @@
     ],
     "index_pointing_up": [
         "index pointing up",
-        "261D"
+        "261D FE0F"
     ],
     "index_pointing_up:t2": [
         "index pointing up: light skin tone",
@@ -1637,7 +1637,7 @@
     ],
     "writing_hand": [
         "writing hand",
-        "270D"
+        "270D FE0F"
     ],
     "writing_hand:t2": [
         "writing hand: light skin tone",
@@ -1884,8 +1884,8 @@
         "1F440"
     ],
     "eye": [
-        "eye",
-        "1F441"
+        "eye in speech bubble",
+        "1F441 FE0F 200D 1F5E8 FE0F"
     ],
     "tongue": [
         "tongue",
@@ -4517,7 +4517,7 @@
     ],
     "detective": [
         "detective",
-        "1F575"
+        "1F575 FE0F"
     ],
     "detective:t2": [
         "detective: light skin tone",
@@ -6545,7 +6545,7 @@
     ],
     "person_in_suit_levitating": [
         "person in suit levitating",
-        "1F574"
+        "1F574 FE0F"
     ],
     "person_in_suit_levitating:t2": [
         "person in suit levitating: light skin tone",
@@ -6753,7 +6753,7 @@
     ],
     "skier": [
         "skier",
-        "26F7"
+        "26F7 FE0F"
     ],
     "snowboarder": [
         "snowboarder",
@@ -6781,7 +6781,7 @@
     ],
     "person_golfing": [
         "person golfing",
-        "1F3CC"
+        "1F3CC FE0F"
     ],
     "person_golfing:t2": [
         "person golfing: light skin tone",
@@ -7029,7 +7029,7 @@
     ],
     "person_bouncing_ball": [
         "person bouncing ball",
-        "26F9"
+        "26F9 FE0F"
     ],
     "person_bouncing_ball:t2": [
         "person bouncing ball: light skin tone",
@@ -7061,7 +7061,7 @@
     ],
     "person_lifting_weights": [
         "person lifting weights",
-        "1F3CB"
+        "1F3CB FE0F"
     ],
     "person_lifting_weights:t2": [
         "person lifting weights: light skin tone",
@@ -7901,7 +7901,7 @@
     ],
     "speaking_head": [
         "speaking head",
-        "1F5E3"
+        "1F5E3 FE0F"
     ],
     "bust_in_silhouette": [
         "bust in silhouette",
@@ -8169,7 +8169,7 @@
     ],
     "chipmunk": [
         "chipmunk",
-        "1F43F"
+        "1F43F FE0F"
     ],
     "beaver": [
         "beaver",
@@ -8257,7 +8257,7 @@
     ],
     "dove": [
         "dove",
-        "1F54A"
+        "1F54A FE0F"
     ],
     "eagle": [
         "eagle",
@@ -8453,11 +8453,11 @@
     ],
     "spider": [
         "spider",
-        "1F577"
+        "1F577 FE0F"
     ],
     "spider_web": [
         "spider web",
-        "1F578"
+        "1F578 FE0F"
     ],
     "scorpion": [
         "scorpion",
@@ -8497,7 +8497,7 @@
     ],
     "rosette": [
         "rosette",
-        "1F3F5"
+        "1F3F5 FE0F"
     ],
     "rose": [
         "rose",
@@ -8561,7 +8561,7 @@
     ],
     "shamrock": [
         "shamrock",
-        "2618"
+        "2618 FE0F"
     ],
     "four_leaf_clover": [
         "four leaf clover",
@@ -8697,7 +8697,7 @@
     ],
     "hot_pepper": [
         "hot pepper",
-        "1F336"
+        "1F336 FE0F"
     ],
     "bell_pepper": [
         "bell pepper",
@@ -9097,7 +9097,7 @@
     ],
     "fork_and_knife_with_plate": [
         "fork and knife with plate",
-        "1F37D"
+        "1F37D FE0F"
     ],
     "fork_and_knife": [
         "fork and knife",
@@ -9137,7 +9137,7 @@
     ],
     "world_map": [
         "world map",
-        "1F5FA"
+        "1F5FA FE0F"
     ],
     "map_of_japan": [
         "map of Japan",
@@ -9149,11 +9149,11 @@
     ],
     "snow_capped_mountain": [
         "snow-capped mountain",
-        "1F3D4"
+        "1F3D4 FE0F"
     ],
     "mountain": [
         "mountain",
-        "26F0"
+        "26F0 FE0F"
     ],
     "volcano": [
         "volcano",
@@ -9165,35 +9165,35 @@
     ],
     "camping": [
         "camping",
-        "1F3D5"
+        "1F3D5 FE0F"
     ],
     "beach_with_umbrella": [
         "beach with umbrella",
-        "1F3D6"
+        "1F3D6 FE0F"
     ],
     "desert": [
         "desert",
-        "1F3DC"
+        "1F3DC FE0F"
     ],
     "desert_island": [
         "desert island",
-        "1F3DD"
+        "1F3DD FE0F"
     ],
     "national_park": [
         "national park",
-        "1F3DE"
+        "1F3DE FE0F"
     ],
     "stadium": [
         "stadium",
-        "1F3DF"
+        "1F3DF FE0F"
     ],
     "classical_building": [
         "classical building",
-        "1F3DB"
+        "1F3DB FE0F"
     ],
     "building_construction": [
         "building construction",
-        "1F3D7"
+        "1F3D7 FE0F"
     ],
     "brick": [
         "brick",
@@ -9213,11 +9213,11 @@
     ],
     "houses": [
         "houses",
-        "1F3D8"
+        "1F3D8 FE0F"
     ],
     "derelict_house": [
         "derelict house",
-        "1F3DA"
+        "1F3DA FE0F"
     ],
     "house": [
         "house",
@@ -9309,7 +9309,7 @@
     ],
     "shinto_shrine": [
         "shinto shrine",
-        "26E9"
+        "26E9 FE0F"
     ],
     "kaaba": [
         "kaaba",
@@ -9333,7 +9333,7 @@
     ],
     "cityscape": [
         "cityscape",
-        "1F3D9"
+        "1F3D9 FE0F"
     ],
     "sunrise_over_mountains": [
         "sunrise over mountains",
@@ -9357,7 +9357,7 @@
     ],
     "hot_springs": [
         "hot springs",
-        "2668"
+        "2668 FE0F"
     ],
     "carousel_horse": [
         "carousel horse",
@@ -9501,11 +9501,11 @@
     ],
     "racing_car": [
         "racing car",
-        "1F3CE"
+        "1F3CE FE0F"
     ],
     "motorcycle": [
         "motorcycle",
-        "1F3CD"
+        "1F3CD FE0F"
     ],
     "motor_scooter": [
         "motor scooter",
@@ -9545,15 +9545,15 @@
     ],
     "motorway": [
         "motorway",
-        "1F6E3"
+        "1F6E3 FE0F"
     ],
     "railway_track": [
         "railway track",
-        "1F6E4"
+        "1F6E4 FE0F"
     ],
     "oil_drum": [
         "oil drum",
-        "1F6E2"
+        "1F6E2 FE0F"
     ],
     "fuel_pump": [
         "fuel pump",
@@ -9605,15 +9605,15 @@
     ],
     "passenger_ship": [
         "passenger ship",
-        "1F6F3"
+        "1F6F3 FE0F"
     ],
     "ferry": [
         "ferry",
-        "26F4"
+        "26F4 FE0F"
     ],
     "motor_boat": [
         "motor boat",
-        "1F6E5"
+        "1F6E5 FE0F"
     ],
     "ship": [
         "ship",
@@ -9621,11 +9621,11 @@
     ],
     "airplane": [
         "airplane",
-        "2708"
+        "2708 FE0F"
     ],
     "small_airplane": [
         "small airplane",
-        "1F6E9"
+        "1F6E9 FE0F"
     ],
     "airplane_departure": [
         "airplane departure",
@@ -9661,7 +9661,7 @@
     ],
     "satellite": [
         "satellite",
-        "1F6F0"
+        "1F6F0 FE0F"
     ],
     "rocket": [
         "rocket",
@@ -9673,7 +9673,7 @@
     ],
     "bellhop_bell": [
         "bellhop bell",
-        "1F6CE"
+        "1F6CE FE0F"
     ],
     "luggage": [
         "luggage",
@@ -9697,15 +9697,15 @@
     ],
     "stopwatch": [
         "stopwatch",
-        "23F1"
+        "23F1 FE0F"
     ],
     "timer_clock": [
         "timer clock",
-        "23F2"
+        "23F2 FE0F"
     ],
     "mantelpiece_clock": [
         "mantelpiece clock",
-        "1F570"
+        "1F570 FE0F"
     ],
     "twelve_o_clock": [
         "twelve o’clock",
@@ -9853,11 +9853,11 @@
     ],
     "thermometer": [
         "thermometer",
-        "1F321"
+        "1F321 FE0F"
     ],
     "sun": [
         "sun",
-        "2600"
+        "2600 FE0F"
     ],
     "full_moon_face": [
         "full moon face",
@@ -9889,7 +9889,7 @@
     ],
     "cloud": [
         "cloud",
-        "2601"
+        "2601 FE0F"
     ],
     "sun_behind_cloud": [
         "sun behind cloud",
@@ -9897,43 +9897,43 @@
     ],
     "cloud_with_lightning_and_rain": [
         "cloud with lightning and rain",
-        "26C8"
+        "26C8 FE0F"
     ],
     "sun_behind_small_cloud": [
         "sun behind small cloud",
-        "1F324"
+        "1F324 FE0F"
     ],
     "sun_behind_large_cloud": [
         "sun behind large cloud",
-        "1F325"
+        "1F325 FE0F"
     ],
     "sun_behind_rain_cloud": [
         "sun behind rain cloud",
-        "1F326"
+        "1F326 FE0F"
     ],
     "cloud_with_rain": [
         "cloud with rain",
-        "1F327"
+        "1F327 FE0F"
     ],
     "cloud_with_snow": [
         "cloud with snow",
-        "1F328"
+        "1F328 FE0F"
     ],
     "cloud_with_lightning": [
         "cloud with lightning",
-        "1F329"
+        "1F329 FE0F"
     ],
     "tornado": [
         "tornado",
-        "1F32A"
+        "1F32A FE0F"
     ],
     "fog": [
         "fog",
-        "1F32B"
+        "1F32B FE0F"
     ],
     "wind_face": [
         "wind face",
-        "1F32C"
+        "1F32C FE0F"
     ],
     "cyclone": [
         "cyclone",
@@ -9949,7 +9949,7 @@
     ],
     "umbrella": [
         "umbrella",
-        "2602"
+        "2602 FE0F"
     ],
     "umbrella_with_rain_drops": [
         "umbrella with rain drops",
@@ -9957,7 +9957,7 @@
     ],
     "umbrella_on_ground": [
         "umbrella on ground",
-        "26F1"
+        "26F1 FE0F"
     ],
     "high_voltage": [
         "high voltage",
@@ -9965,11 +9965,11 @@
     ],
     "snowflake": [
         "snowflake",
-        "2744"
+        "2744 FE0F"
     ],
     "snowman": [
         "snowman",
-        "2603"
+        "2603 FE0F"
     ],
     "snowman_without_snow": [
         "snowman without snow",
@@ -9977,7 +9977,7 @@
     ],
     "comet": [
         "comet",
-        "2604"
+        "2604 FE0F"
     ],
     "fire": [
         "fire",
@@ -10065,11 +10065,11 @@
     ],
     "reminder_ribbon": [
         "reminder ribbon",
-        "1F397"
+        "1F397 FE0F"
     ],
     "admission_tickets": [
         "admission tickets",
-        "1F39F"
+        "1F39F FE0F"
     ],
     "ticket": [
         "ticket",
@@ -10077,7 +10077,7 @@
     ],
     "military_medal": [
         "military medal",
-        "1F396"
+        "1F396 FE0F"
     ],
     "trophy": [
         "trophy",
@@ -10181,7 +10181,7 @@
     ],
     "ice_skate": [
         "ice skate",
-        "26F8"
+        "26F8 FE0F"
     ],
     "fishing_pole": [
         "fishing pole",
@@ -10241,7 +10241,7 @@
     ],
     "joystick": [
         "joystick",
-        "1F579"
+        "1F579 FE0F"
     ],
     "slot_machine": [
         "slot machine",
@@ -10273,19 +10273,19 @@
     ],
     "spade_suit": [
         "spade suit",
-        "2660"
+        "2660 FE0F"
     ],
     "diamond_suit": [
         "diamond suit",
-        "2666"
+        "2666 FE0F"
     ],
     "club_suit": [
         "club suit",
-        "2663"
+        "2663 FE0F"
     ],
     "chess_pawn": [
         "chess pawn",
-        "265F"
+        "265F FE0F"
     ],
     "joker": [
         "joker",
@@ -10305,7 +10305,7 @@
     ],
     "framed_picture": [
         "framed picture",
-        "1F5BC"
+        "1F5BC FE0F"
     ],
     "artist_palette": [
         "artist palette",
@@ -10333,7 +10333,7 @@
     ],
     "sunglasses": [
         "sunglasses",
-        "1F576"
+        "1F576 FE0F"
     ],
     "goggles": [
         "goggles",
@@ -10425,7 +10425,7 @@
     ],
     "shopping_bags": [
         "shopping bags",
-        "1F6CD"
+        "1F6CD FE0F"
     ],
     "backpack": [
         "backpack",
@@ -10497,7 +10497,7 @@
     ],
     "rescue_worker_s_helmet": [
         "rescue worker’s helmet",
-        "26D1"
+        "26D1 FE0F"
     ],
     "prayer_beads": [
         "prayer beads",
@@ -10565,15 +10565,15 @@
     ],
     "studio_microphone": [
         "studio microphone",
-        "1F399"
+        "1F399 FE0F"
     ],
     "level_slider": [
         "level slider",
-        "1F39A"
+        "1F39A FE0F"
     ],
     "control_knobs": [
         "control knobs",
-        "1F39B"
+        "1F39B FE0F"
     ],
     "microphone": [
         "microphone",
@@ -10645,7 +10645,7 @@
     ],
     "telephone": [
         "telephone",
-        "260E"
+        "260E FE0F"
     ],
     "telephone_receiver": [
         "telephone receiver",
@@ -10677,23 +10677,23 @@
     ],
     "desktop_computer": [
         "desktop computer",
-        "1F5A5"
+        "1F5A5 FE0F"
     ],
     "printer": [
         "printer",
-        "1F5A8"
+        "1F5A8 FE0F"
     ],
     "keyboard": [
         "keyboard",
-        "2328"
+        "2328 FE0F"
     ],
     "computer_mouse": [
         "computer mouse",
-        "1F5B1"
+        "1F5B1 FE0F"
     ],
     "trackball": [
         "trackball",
-        "1F5B2"
+        "1F5B2 FE0F"
     ],
     "computer_disk": [
         "computer disk",
@@ -10721,11 +10721,11 @@
     ],
     "film_frames": [
         "film frames",
-        "1F39E"
+        "1F39E FE0F"
     ],
     "film_projector": [
         "film projector",
-        "1F4FD"
+        "1F4FD FE0F"
     ],
     "clapper_board": [
         "clapper board",
@@ -10761,7 +10761,7 @@
     ],
     "candle": [
         "candle",
-        "1F56F"
+        "1F56F FE0F"
     ],
     "light_bulb": [
         "light bulb",
@@ -10833,7 +10833,7 @@
     ],
     "rolled_up_newspaper": [
         "rolled-up newspaper",
-        "1F5DE"
+        "1F5DE FE0F"
     ],
     "bookmark_tabs": [
         "bookmark tabs",
@@ -10845,7 +10845,7 @@
     ],
     "label": [
         "label",
-        "1F3F7"
+        "1F3F7 FE0F"
     ],
     "money_bag": [
         "money bag",
@@ -10889,7 +10889,7 @@
     ],
     "envelope": [
         "envelope",
-        "2709"
+        "2709 FE0F"
     ],
     "e_mail": [
         "e-mail",
@@ -10937,31 +10937,31 @@
     ],
     "ballot_box_with_ballot": [
         "ballot box with ballot",
-        "1F5F3"
+        "1F5F3 FE0F"
     ],
     "pencil": [
         "pencil",
-        "270F"
+        "270F FE0F"
     ],
     "black_nib": [
         "black nib",
-        "2712"
+        "2712 FE0F"
     ],
     "fountain_pen": [
         "fountain pen",
-        "1F58B"
+        "1F58B FE0F"
     ],
     "pen": [
         "pen",
-        "1F58A"
+        "1F58A FE0F"
     ],
     "paintbrush": [
         "paintbrush",
-        "1F58C"
+        "1F58C FE0F"
     ],
     "crayon": [
         "crayon",
-        "1F58D"
+        "1F58D FE0F"
     ],
     "memo": [
         "memo",
@@ -10981,7 +10981,7 @@
     ],
     "card_index_dividers": [
         "card index dividers",
-        "1F5C2"
+        "1F5C2 FE0F"
     ],
     "date": [
         "calendar",
@@ -10993,11 +10993,11 @@
     ],
     "spiral_notepad": [
         "spiral notepad",
-        "1F5D2"
+        "1F5D2 FE0F"
     ],
     "spiral_calendar": [
         "spiral calendar",
-        "1F5D3"
+        "1F5D3 FE0F"
     ],
     "card_index": [
         "card index",
@@ -11033,7 +11033,7 @@
     ],
     "linked_paperclips": [
         "linked paperclips",
-        "1F587"
+        "1F587 FE0F"
     ],
     "straight_ruler": [
         "straight ruler",
@@ -11045,19 +11045,19 @@
     ],
     "scissors": [
         "scissors",
-        "2702"
+        "2702 FE0F"
     ],
     "card_file_box": [
         "card file box",
-        "1F5C3"
+        "1F5C3 FE0F"
     ],
     "file_cabinet": [
         "file cabinet",
-        "1F5C4"
+        "1F5C4 FE0F"
     ],
     "wastebasket": [
         "wastebasket",
-        "1F5D1"
+        "1F5D1 FE0F"
     ],
     "locked": [
         "locked",
@@ -11081,7 +11081,7 @@
     ],
     "old_key": [
         "old key",
-        "1F5DD"
+        "1F5DD FE0F"
     ],
     "hammer": [
         "hammer",
@@ -11093,23 +11093,23 @@
     ],
     "pick": [
         "pick",
-        "26CF"
+        "26CF FE0F"
     ],
     "hammer_and_pick": [
         "hammer and pick",
-        "2692"
+        "2692 FE0F"
     ],
     "hammer_and_wrench": [
         "hammer and wrench",
-        "1F6E0"
+        "1F6E0 FE0F"
     ],
     "dagger": [
         "dagger",
-        "1F5E1"
+        "1F5E1 FE0F"
     ],
     "crossed_swords": [
         "crossed swords",
-        "2694"
+        "2694 FE0F"
     ],
     "bomb": [
         "bomb",
@@ -11125,7 +11125,7 @@
     ],
     "shield": [
         "shield",
-        "1F6E1"
+        "1F6E1 FE0F"
     ],
     "carpentry_saw": [
         "carpentry saw",
@@ -11145,15 +11145,15 @@
     ],
     "gear": [
         "gear",
-        "2699"
+        "2699 FE0F"
     ],
     "clamp": [
         "clamp",
-        "1F5DC"
+        "1F5DC FE0F"
     ],
     "balance_scale": [
         "balance scale",
-        "2696"
+        "2696 FE0F"
     ],
     "white_cane": [
         "white cane",
@@ -11168,8 +11168,8 @@
         "26D3 FE0F 200D 1F4A5"
     ],
     "chains": [
-        "chains",
-        "26D3"
+        "broken chain",
+        "26D3 FE0F 200D 1F4A5"
     ],
     "hook": [
         "hook",
@@ -11193,7 +11193,7 @@
     ],
     "alembic": [
         "alembic",
-        "2697"
+        "2697 FE0F"
     ],
     "test_tube": [
         "test tube",
@@ -11265,11 +11265,11 @@
     ],
     "bed": [
         "bed",
-        "1F6CF"
+        "1F6CF FE0F"
     ],
     "couch_and_lamp": [
         "couch and lamp",
-        "1F6CB"
+        "1F6CB FE0F"
     ],
     "chair": [
         "chair",
@@ -11353,7 +11353,7 @@
     ],
     "coffin": [
         "coffin",
-        "26B0"
+        "26B0 FE0F"
     ],
     "headstone": [
         "headstone",
@@ -11361,7 +11361,7 @@
     ],
     "funeral_urn": [
         "funeral urn",
-        "26B1"
+        "26B1 FE0F"
     ],
     "nazar_amulet": [
         "nazar amulet",
@@ -11437,7 +11437,7 @@
     ],
     "warning": [
         "warning",
-        "26A0"
+        "26A0 FE0F"
     ],
     "children_crossing": [
         "children crossing",
@@ -11481,63 +11481,63 @@
     ],
     "radioactive": [
         "radioactive",
-        "2622"
+        "2622 FE0F"
     ],
     "biohazard": [
         "biohazard",
-        "2623"
+        "2623 FE0F"
     ],
     "up_arrow": [
         "up arrow",
-        "2B06"
+        "2B06 FE0F"
     ],
     "up_right_arrow": [
         "up-right arrow",
-        "2197"
+        "2197 FE0F"
     ],
     "right_arrow": [
         "right arrow",
-        "27A1"
+        "27A1 FE0F"
     ],
     "down_right_arrow": [
         "down-right arrow",
-        "2198"
+        "2198 FE0F"
     ],
     "down_arrow": [
         "down arrow",
-        "2B07"
+        "2B07 FE0F"
     ],
     "down_left_arrow": [
         "down-left arrow",
-        "2199"
+        "2199 FE0F"
     ],
     "left_arrow": [
         "left arrow",
-        "2B05"
+        "2B05 FE0F"
     ],
     "up_left_arrow": [
         "up-left arrow",
-        "2196"
+        "2196 FE0F"
     ],
     "up_down_arrow": [
         "up-down arrow",
-        "2195"
+        "2195 FE0F"
     ],
     "right_arrow_curving_left": [
         "right arrow curving left",
-        "21A9"
+        "21A9 FE0F"
     ],
     "left_arrow_curving_right": [
         "left arrow curving right",
-        "21AA"
+        "21AA FE0F"
     ],
     "right_arrow_curving_up": [
         "right arrow curving up",
-        "2934"
+        "2934 FE0F"
     ],
     "right_arrow_curving_down": [
         "right arrow curving down",
-        "2935"
+        "2935 FE0F"
     ],
     "clockwise_vertical_arrows": [
         "clockwise vertical arrows",
@@ -11573,39 +11573,39 @@
     ],
     "atom_symbol": [
         "atom symbol",
-        "269B"
+        "269B FE0F"
     ],
     "om": [
         "om",
-        "1F549"
+        "1F549 FE0F"
     ],
     "star_of_david": [
         "star of David",
-        "2721"
+        "2721 FE0F"
     ],
     "wheel_of_dharma": [
         "wheel of dharma",
-        "2638"
+        "2638 FE0F"
     ],
     "yin_yang": [
         "yin yang",
-        "262F"
+        "262F FE0F"
     ],
     "latin_cross": [
         "latin cross",
-        "271D"
+        "271D FE0F"
     ],
     "orthodox_cross": [
         "orthodox cross",
-        "2626"
+        "2626 FE0F"
     ],
     "star_and_crescent": [
         "star and crescent",
-        "262A"
+        "262A FE0F"
     ],
     "peace_symbol": [
         "peace symbol",
-        "262E"
+        "262E FE0F"
     ],
     "menorah": [
         "menorah",
@@ -11685,7 +11685,7 @@
     ],
     "play_button": [
         "play button",
-        "25B6"
+        "25B6 FE0F"
     ],
     "fast_forward_button": [
         "fast-forward button",
@@ -11693,15 +11693,15 @@
     ],
     "next_track_button": [
         "next track button",
-        "23ED"
+        "23ED FE0F"
     ],
     "play_or_pause_button": [
         "play or pause button",
-        "23EF"
+        "23EF FE0F"
     ],
     "reverse_button": [
         "reverse button",
-        "25C0"
+        "25C0 FE0F"
     ],
     "fast_reverse_button": [
         "fast reverse button",
@@ -11709,7 +11709,7 @@
     ],
     "last_track_button": [
         "last track button",
-        "23EE"
+        "23EE FE0F"
     ],
     "upwards_button": [
         "upwards button",
@@ -11729,19 +11729,19 @@
     ],
     "pause_button": [
         "pause button",
-        "23F8"
+        "23F8 FE0F"
     ],
     "stop_button": [
         "stop button",
-        "23F9"
+        "23F9 FE0F"
     ],
     "record_button": [
         "record button",
-        "23FA"
+        "23FA FE0F"
     ],
     "eject_button": [
         "eject button",
-        "23CF"
+        "23CF FE0F"
     ],
     "cinema": [
         "cinema",
@@ -11773,19 +11773,19 @@
     ],
     "female_sign": [
         "female sign",
-        "2640"
+        "2640 FE0F"
     ],
     "male_sign": [
         "male sign",
-        "2642"
+        "2642 FE0F"
     ],
     "transgender_symbol": [
         "transgender symbol",
-        "26A7"
+        "26A7 FE0F"
     ],
     "multiply": [
         "multiply",
-        "2716"
+        "2716 FE0F"
     ],
     "plus": [
         "plus",
@@ -11805,15 +11805,15 @@
     ],
     "infinity": [
         "infinity",
-        "267E"
+        "267E FE0F"
     ],
     "double_exclamation_mark": [
         "double exclamation mark",
-        "203C"
+        "203C FE0F"
     ],
     "exclamation_question_mark": [
         "exclamation question mark",
-        "2049"
+        "2049 FE0F"
     ],
     "red_question_mark": [
         "red question mark",
@@ -11833,7 +11833,7 @@
     ],
     "wavy_dash": [
         "wavy dash",
-        "3030"
+        "3030 FE0F"
     ],
     "currency_exchange": [
         "currency exchange",
@@ -11845,15 +11845,15 @@
     ],
     "medical_symbol": [
         "medical symbol",
-        "2695"
+        "2695 FE0F"
     ],
     "recycling_symbol": [
         "recycling symbol",
-        "267B"
+        "267B FE0F"
     ],
     "fleur_de_lis": [
         "fleur-de-lis",
-        "269C"
+        "269C FE0F"
     ],
     "trident_emblem": [
         "trident emblem",
@@ -11877,11 +11877,11 @@
     ],
     "check_box_with_check": [
         "check box with check",
-        "2611"
+        "2611 FE0F"
     ],
     "check_mark": [
         "check mark",
-        "2714"
+        "2714 FE0F"
     ],
     "cross_mark": [
         "cross mark",
@@ -11901,23 +11901,23 @@
     ],
     "part_alternation_mark": [
         "part alternation mark",
-        "303D"
+        "303D FE0F"
     ],
     "eight_spoked_asterisk": [
         "eight-spoked asterisk",
-        "2733"
+        "2733 FE0F"
     ],
     "eight_pointed_star": [
         "eight-pointed star",
-        "2734"
+        "2734 FE0F"
     ],
     "sparkle": [
         "sparkle",
-        "2747"
+        "2747 FE0F"
     ],
     "trade_mark": [
         "trade mark",
-        "2122"
+        "2122 FE0F"
     ],
     "splatter": [
         "splatter",
@@ -11993,7 +11993,7 @@
     ],
     "a_button_blood_type": [
         "A button (blood type)",
-        "1F170"
+        "1F170 FE0F"
     ],
     "ab_button_blood_type": [
         "AB button (blood type)",
@@ -12001,7 +12001,7 @@
     ],
     "b_button_blood_type": [
         "B button (blood type)",
-        "1F171"
+        "1F171 FE0F"
     ],
     "cl_button": [
         "CL button",
@@ -12021,7 +12021,7 @@
     ],
     "circled_m": [
         "circled M",
-        "24C2"
+        "24C2 FE0F"
     ],
     "new_button": [
         "N",
@@ -12033,7 +12033,7 @@
     ],
     "o_button_blood_type": [
         "O button (blood type)",
-        "1F17E"
+        "1F17E FE0F"
     ],
     "ok_button": [
         "OK button",
@@ -12041,7 +12041,7 @@
     ],
     "p_button": [
         "P button",
-        "1F17F"
+        "1F17F FE0F"
     ],
     "sos_button": [
         "SOS button",
@@ -12061,11 +12061,11 @@
     ],
     "japanese_service_charge_button": [
         "Japanese “service charge” button",
-        "1F202"
+        "1F202 FE0F"
     ],
     "japanese_monthly_amount_button": [
         "Japanese “monthly amount” button",
-        "1F237"
+        "1F237 FE0F"
     ],
     "japanese_not_free_of_charge_button": [
         "Japanese “not free of charge” button",
@@ -12109,11 +12109,11 @@
     ],
     "japanese_congratulations_button": [
         "Japanese “congratulations” button",
-        "3297"
+        "3297 FE0F"
     ],
     "japanese_secret_button": [
         "Japanese “secret” button",
-        "3299"
+        "3299 FE0F"
     ],
     "japanese_open_for_business_button": [
         "Japanese “open for business” button",
@@ -12197,11 +12197,11 @@
     ],
     "black_medium_square": [
         "black medium square",
-        "25FC"
+        "25FC FE0F"
     ],
     "white_medium_square": [
         "white medium square",
-        "25FB"
+        "25FB FE0F"
     ],
     "black_medium_small_square": [
         "black medium-small square",
@@ -12213,11 +12213,11 @@
     ],
     "black_small_square": [
         "black small square",
-        "25AA"
+        "25AA FE0F"
     ],
     "white_small_square": [
         "white small square",
-        "25AB"
+        "25AB FE0F"
     ],
     "large_orange_diamond": [
         "large orange diamond",
@@ -12277,7 +12277,7 @@
     ],
     "white_flag": [
         "white flag",
-        "1F3F3"
+        "1F3F3 FE0F"
     ],
     "rainbow_flag": [
         "rainbow flag",
